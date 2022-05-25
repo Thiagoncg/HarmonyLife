@@ -1,0 +1,19 @@
+
+__Detalhes HarmonyLife____
+KeyStore:HarmonyLife
+UnityVersion:2018.2.10f1
+FirebaseVersion:5.3.1
+Conta:CriarGames.
+Loja: CriarGames.
+
+Fingerprints do certificado:
+         MD5:  95:4F:2B:D8:1B:9D:62:40:0B:FD:3D:C1:F9:C1:FB:E3
+         SHA1: 4D:A8:2A:D5:AD:33:EE:31:9C:29:DD:1E:44:24:7A:8D:89:C2:38:6D
+         SHA256: 03:88:76:59:4D:82:AC:BD:6D:69:8A:83:6E:AE:E9:19:3B:C4:5A:FC:A3:FB:7B:87:12:4E:EE:0D:B5:4F:97:22
+Nome do algoritmo de assinatura: SHA1withRSA
+
+ClientID google token
+ 624833908465-g99dndeb7hv335jcdd0vt9umal2chkpd.apps.googleusercontent.com 
+
+ClientSecret
+  3AQV9gZxvkYJnC1124UoP4hS 
